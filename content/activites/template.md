@@ -3,7 +3,7 @@ sidebar: auto
 lastUpdated: 'Mis à jour le '
 ---
 
-# Gestion des opportunités
+# Fiche modèle
 
 ## Objectifs poursuivis
 
@@ -37,6 +37,11 @@ lastUpdated: 'Mis à jour le '
   * Données concernant la vie sexuelle ou l'orientation sexuelle 
   * Numéro d'identification  national unique (NIR pour la France)
 
+## Durée de conservation des données
+
+ * Durée: en jours/mois/années
+ * Autre durée
+
 ## Catégorie de destinataires des données
 
 * Destinataires internes
@@ -55,4 +60,4 @@ lastUpdated: 'Mis à jour le '
 * Sauvegarde des données
 * Chiffrement des données
 * Contrôle des sous-traitants
-* ~~Autres mesures~~
+* Autres mesures
