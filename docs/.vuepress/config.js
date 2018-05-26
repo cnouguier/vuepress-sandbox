@@ -5,7 +5,7 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    docsDir: 'content',
+    docsDir: 'docs',
     nav: [
       {
         text: 'Responsables',
