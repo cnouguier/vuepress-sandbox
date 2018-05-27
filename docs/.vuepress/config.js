@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vuepress-sandbox',
+  base: '/vuepress-sandbox/',
   title: 'Le registre RGPD de Kalisio',
   description: 'Registre RPGD de Kalisio',
   serviceWorker: true,
