@@ -15,6 +15,10 @@ module.exports = {
         text: 'Activités',
         link: '/activites/'
       }
+      {
+        text: 'Hello',
+        link: '/world/'
+      }
     ]
   }
 }
