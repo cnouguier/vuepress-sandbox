@@ -4,6 +4,7 @@ node_js:
 script:
   - yarn install
   - npm run build
+  - echo $TRAVIS_BUILD_DIR
 deploy:
   provider: pages
   local-dir: docs/.vuepress/dist
